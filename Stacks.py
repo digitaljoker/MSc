@@ -1,7 +1,3 @@
-#Name: Eamon Kelly; Student ID: S19003656; Due Date: 11th May 2020
-#Code Assignment 1 Draw user specified number of regular Heptagons (50p's)
-#Note Heptagon angles determined for this task interior: 128.57, exterior: 51.43
-
 #import required libraries
 
 
